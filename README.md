@@ -1,13 +1,13 @@
 <p align="center"> <img src="http://icons.iconarchive.com/icons/iconarchive/red-orb-alphabet/128/Letter-D-icon.png" width="512">
-<h1><p align="center">NFS-Bot
-<h1><p align="center">We are best =|
+<h1><p align="center">DiMoN-Bot
+<h1><p align="center">We are best :)
 
 <h3 align="left"> <strong>install :</strong>
 </h3>
 
 <pre>
-<span>git clone https://github.com/behradhg/TeleNfs.git</span>
-<span>cd TeleNfs</span>
+<span>git clone https://github.com/MaStErDiMoNCRT/TelegramBot.git</span>
+<span>cd elegramBot</span>
 <span>chmod 7777 ./bot.sh</span>
 <span>./bot.sh -tg</span>
 <span>./bot.sh -apt</span>
@@ -50,18 +50,9 @@
  superband | cant join all bots groups.
 
 # Special thanks to
-[@BugsCreator](https://telegram.me/BugsCreator)
 
-
-[Butler-bot](https://github.com/RememberTheAir/GroupButler)
-
-
-[@Nero_Dev](https://telegram.me/Nero_Dev)
-
-
-[rizaumami](https://github.com/rizaumami)
-
+<b> BEHRAD,MAHDINERO,AND ...</b>
 
 * * *
 
-# [@NFS_team](https://telegram.me/NFS_team)
+# [DiMoN_TM](https://telegram.me/DiMoN_TM1)
